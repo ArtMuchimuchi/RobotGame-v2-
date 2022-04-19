@@ -62,7 +62,13 @@
 
 3.พิมคำสั่ง java robotGame จะมีหน้าต่างใหม่ขึ้นมา ให้ทำการกรอกชื่อผู้เล่นและกด submit
 
+![picture3](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture3.jpg)
+
+![picture4](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture4.jpg)
+
 4.เมื่อกด submit จะมีหน้าต่างของตัวเกมขึ้นมา สามารถเคลื่อนที่ด้วยปุ่มลูกศร และยิงได้ด้วยปุ่ม spacebar
+
+![picture5](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture5.jpg)
 
 5.หากต้องการเพิ่มผู้เล่นใหม่ (สูงสุด 4 ผู้เล่น) ให้ทำตามข้อ 2, 3 อีกครั้ง
 
@@ -74,7 +80,19 @@
 
 2.เมื่อเกมจบจะมีหน้าต่างใหม่ขึ้นมาสำหรับแต่ละผู้เล่น โดยผู้เล่นที่เลือดเท่ากับหรือต่ำกว่า 0 จะถือว่าแพ้ ส่วนคนที่เหลือจะนับว่าชนะ
 
-3.เมื่อเกมจบแล้ว command prompt ของ server อาจจะค้างอยู่ ให้ทำการกด ctrl+c เพื่อให้กลับมาพิมคำสั่งได้
+![picture6](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture6.jpg)
+
+![picture7](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture7.jpg)
+
+3.เมื่อเกมจบแล้ว command prompt ของ Server อาจจะค้างอยู่ ให้ทำการกด ctrl+c เพื่อให้กลับมาพิมคำสั่งได้
+
+![picture8](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture8.jpg)
+
+![picture9](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture9.jpg)
 
 4.หากออกเกมด้วยวิธีอื่นที่ไม่ใช่การจบเกมปกติ command prompt ของ server หรือ client อาจค้างได้ ให้แก้ด้วยวิธีเดียวกันกับข้อ 3
+
+![picture10](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture10.jpg)
+
+![picture11](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture11.jpg)
 
