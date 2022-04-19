@@ -31,7 +31,7 @@
 
 1.เปิด command prompt แล้วทำการ cd มาที่ folder robotGame (ไม่ใช่ RobotGame-v2-)
 
-![picture1] (others/picture1.jpg)
+![picture1] (https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture1.jpg)
 
 2. พิมคำสั่ง java Server เพื่อทำการเปิด Server
 
