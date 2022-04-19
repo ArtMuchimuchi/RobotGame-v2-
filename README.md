@@ -47,12 +47,18 @@
 
 1.เปิด command prompt แล้วทำการ cd มาที่ folder robotGame (ไม่ใช่ RobotGame-v2-)
 
+![picture1](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture1.jpg)
+
 2. พิมคำสั่ง java Server เพื่อทำการเปิด Server
+
+![picture2](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture2.jpg)
 
 # การรันโปรแกรมฝั่ง Client 
 1.ต้องทำการเปิด Server ก่อน
 
 2.เปิด command prompt แล้วทำการ cd มาที่ folder robotGame (ไม่ใช่ RobotGame-v2-)
+
+![picture1](https://github.com/ArtMuchimuchi/RobotGame-v2-/blob/main/others/picture1.jpg)
 
 3.พิมคำสั่ง java robotGame จะมีหน้าต่างใหม่ขึ้นมา ให้ทำการกรอกชื่อผู้เล่นและกด submit
 
